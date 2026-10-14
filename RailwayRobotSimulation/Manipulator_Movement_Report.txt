@@ -1,0 +1,10 @@
+TWO-LINK MANIPULATOR MOVEMENT & DYNAMICS REPORT
+Generated: 03-Oct-2026 00:30:33
+
+Obstacle Pick Time:   4.35 s
+Obstacle Drop Time:   11.20 s
+Obstacle Mass:        8.00 kg
+Peak Joint 1 Torque:  120.00 Nm
+Peak Joint 2 Torque:  59.61 Nm
+RMS Joint 1 Error:    18.330 deg
+RMS Joint 2 Error:    11.485 deg
